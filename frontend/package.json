@@ -1,0 +1,23 @@
+{
+  "name": "web-developer-p6",
+  "version": "1.0.0",
+  "description": "## Installation ##",
+  "main": "main.65690c6da84bf9472a32.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6/issues"
+  },
+  "homepage": "https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6#readme",
+  "dependencies": {
+    "mime": "^3.0.0"
+  }
+}
